@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     default: "berserkarch.xyz",
     template: "%s | berserkarch.xyz",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Berserk Arch is a bleeding-edge, security-centric Arch-based Linux distribution crafted for hackers, developers, and nerds alike.",
   openGraph: {
     title: "berserkarch.xyz",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "Berserk Arch is a bleeding-edge, security-centric Arch-based Linux distribution crafted for hackers, developers, and nerds alike.",
     url: "https://berserkarch.xyz",
     siteName: "berserkarch.xyz",
     images: [
@@ -38,11 +38,11 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "thehackersbrain",
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/favicon.svg",
   },
 };
 const inter = Inter({
