@@ -4,6 +4,7 @@ import Particles from "./components/particles";
 
 const navigation = [
   // { name: "Projects", href: "/projects", target: "" },
+  { name: "Wiki", href: "https://wiki.berserkarch.xyz", target: "_blank" },
   { name: "Gitlab", href: "https://gitlab.com/berserkarch/", target: "_blank" },
   { name: "Download", href: "#", target: "" },
   { name: "Contact", href: "/contact", target: "" },
