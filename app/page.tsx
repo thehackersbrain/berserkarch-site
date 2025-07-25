@@ -6,7 +6,7 @@ const navigation = [
   // { name: "Projects", href: "/projects", target: "" },
   { name: "Wiki", href: "https://wiki.berserkarch.xyz", target: "_blank" },
   { name: "Gitlab", href: "https://gitlab.com/berserkarch/", target: "_blank" },
-  { name: "Download", href: "#", target: "" },
+  { name: "Download", href: "https://drive.google.com/drive/folders/14sOpnU4iMUeivxWvj9rvctVFgGUbXiAq", target: "_blank" },
   { name: "Contact", href: "/contact", target: "" },
 ];
 
